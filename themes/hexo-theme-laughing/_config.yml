@@ -1,0 +1,41 @@
+# Icon
+favicon: /favicon.ico
+# SEO
+keywords: 刘永明 , Nodejs, Vuejs
+# Header
+page_background: http://7xkc0e.com1.z0.glb.clouddn.com/hexo/jpg/page_background.jpg
+page_menu_button: dark
+post_background: http://7xkc0e.com1.z0.glb.clouddn.com/hexo/jpg/post_background.jpg
+post_menu_button: light
+title_plancehold: 随笔
+author:
+  head: http://7xkc0e.com1.z0.glb.clouddn.com/hexo/jpg/head.jpg
+  signature: 人生没有如果，只有结果和后果.
+navication:
+  - name: Github
+    link: https://github.com
+  - name: V2EX
+    link: https://www.v2ex.com/
+# content
+content_width: 800
+# Footer
+## Social icon list: [facebook, twitter, weibo, wechat, github, stackoverflow, linkin, email, segmentfault, flickr, zhihu, disqus, douban, bilibili]
+social:
+  - name: Github
+    icon: github
+    link: https://github.com/liuyongming1010
+  #- name: Weibo
+  #  icon: weibo
+  #  link: https://weibo.com/heqibang
+  #- name: SegmentFault
+  #  icon: segmentfault
+  #  link: https://www.segmentfault.com/u/bon
+# Duoshuo
+duoshuo:
+  enable: true
+  siteName: ueibo
+# Copyright
+copyright:
+  record: false
+  hexo: true
+  laughing: true
